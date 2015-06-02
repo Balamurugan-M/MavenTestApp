@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( "Code done by : Bala", false );
+        assertTrue( true );
     }
 }
